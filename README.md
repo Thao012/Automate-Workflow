@@ -1,6 +1,6 @@
 # Automate Workflow Repository
 
-A collection of automated workflows for business processes, SEO reporting, content optimization, data analysis, and productivity enhancement.
+A collection of automated workflows for business processes, SEO reporting, content optimisation, data analysis, and productivity enhancement.
 
 ## 📁 Repository Structure
 
@@ -10,8 +10,8 @@ Automated SEO reporting workflows and examples
 - **Examples/** - Sample reports and templates
 
 ### SEO-Content/
-Content optimization workflows and guidelines
-- **Content_Optimization_Workflow.md** - Systematic approach for optimizing website page content
+Content optimisation workflows and guidelines
+- **Content_Optimization_Workflow.md** - Systematic approach for optimising website page content
 
 ## 🚀 Current Workflows
 
@@ -20,7 +20,7 @@ Content optimization workflows and guidelines
 
 **Features:**
 - Automated data extraction from Zoho, GSC, GA4, Ahrefs
-- Interactive timeline with task management visualization
+- Interactive timeline with task management visualisation
 - Professional responsive design with embedded analytics
 - Self-contained HTML reports ready for hosting
 
@@ -29,9 +29,9 @@ Content optimization workflows and guidelines
 - Google Search Console
 - Google Analytics 4
 - Ahrefs/SEMrush
-- Custom screenshots and visualizations
+- Custom screenshots and visualisations
 
-### 2. SEO Content Optimization
+### 2. SEO Content Optimisation
 **Location:** `SEO-Content/Content_Optimization_Workflow.md`
 
 **Features:**
@@ -40,7 +40,7 @@ Content optimization workflows and guidelines
 - Quality assurance checklist with style guidelines
 - Internal linking strategy and content templates
 
-**Optimization Elements:**
+**Optimisation Elements:**
 - Australian English requirements
 - Professional style standards
 - Fact-checking against existing website content
@@ -49,7 +49,7 @@ Content optimization workflows and guidelines
 ## 📊 Report Features
 - **Professional Design**: Gradient styling, mobile-responsive
 - **Interactive Elements**: Expandable timelines, hover effects
-- **Data Visualization**: Metric cards, progress indicators
+- **Data Visualisation**: Metric cards, progress indicators
 - **Evidence Integration**: Embedded screenshots and charts
 - **Self-Contained**: No external dependencies when deployed
 
