@@ -20,7 +20,7 @@ This workflow guides the creation of comprehensive SEO progress reports with dat
 ### Performance Data Analysis
 - Process GSC performance data (clicks, impressions, CTR, positions)
 - Extract organic keywords data from Ahrefs/SEMrush
-- Analyze top performing keywords and rankings
+- Analyse top performing keywords and rankings
 - Calculate key metrics (traffic, keyword count, etc.)
 
 ### Visual Evidence Gathering
@@ -44,12 +44,12 @@ Create sections in this order:
    - Top performing keywords list with positions/traffic
 
 4. **Task Management & Completion**
-   - Interactive timeline organized by month
+   - Interactive timeline organised by month
    - Parent/child task structure with expand/collapse
    - Only include completed SEO tasks count to avoid confusion
 
 5. **SEO Improvements Completed**
-   - List major optimizations done
+   - List major optimisations done
    - Show measured impact/results for each
 
 6. **Key Achievements**
@@ -68,12 +68,12 @@ Create sections in this order:
 - Use Art by Poh report design as template
 - Include favicon (SVG with gradient background)
 - Mobile-responsive design with proper breakpoints
-- Professional color scheme (#667eea, #764ba2 gradients)
+- Professional colour scheme (#667eea, #764ba2 gradients)
 
 ### Interactive Timeline
-- Month-based organization with visual timeline
+- Month-based organisation with visual timeline
 - Expandable parent tasks with child task details
-- Color-coded status indicators (completed, in-progress, open)
+- Colour-coded status indicators (completed, in-progress, open)
 - Smooth animations and hover effects
 - Auto-expand completed tasks on page load
 
@@ -106,7 +106,7 @@ Create sections in this order:
 - [ ] Images display properly
 - [ ] Interactive elements work (timeline expand/collapse)
 - [ ] Mobile responsive design
-- [ ] Timeline circles properly centered on line
+- [ ] Timeline circles properly centred on line
 - [ ] Month headers separated from timeline indicators
 
 ## Step 6: Final Delivery
@@ -121,7 +121,7 @@ Create sections in this order:
 - Example: `Eliixa-SEO-report.html`
 
 ## Common Adjustments
-- **Timeline alignment**: Adjust circle positions (typically left: -28px for center)
+- **Timeline alignment**: Adjust circle positions (typically left: -28px for centre)
 - **Task counting**: Only include actual SEO work, not all project tasks
 - **Section separation**: Keep Key Achievements as separate section for better readability
 - **Image paths**: Always embed images for hosting compatibility
