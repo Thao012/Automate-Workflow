@@ -1,0 +1,141 @@
+{
+  "project": {
+    "title": "Shopify Alt Text Automation System",
+    "description": "Automated system for detecting and updating missing alt text on Shopify product images to enhance SEO performance and accessibility compliance",
+    "core_directive": "Systematically audit Shopify product catalogues to identify missing alt text, generate descriptive and SEO-optimised alt text for product images, and maintain accessibility compliance across e-commerce platforms",
+    "project_structure": {
+      "core_files": [
+        "check_alt_text.py",
+        "find_alt_text.js",
+        "complete_product_scan.js",
+        "test_api_connection.js"
+      ],
+      "search_modules": [
+        "comprehensive_product_search.js",
+        "search_all_products_for_stone_guard.js",
+        "search_jerry_can.js",
+        "search_robot_trolley.js"
+      ],
+      "update_scripts": [
+        "update_jerry_can_alt_text.js",
+        "update_robot_trolley_alt_text.js",
+        "update_stone_guard_sticker_alt_text.js",
+        "update_wheel_security_products.js"
+      ],
+      "verification_tools": [
+        "verify_robot_trolley_updates.js",
+        "verify_stone_guard_sticker_updates.js"
+      ],
+      "data_files": [
+        "all_products.json",
+        "products_needing_alt_text.json",
+        "towing_products_needing_alt_text.json",
+        "stone_guard_sticker_products.json"
+      ],
+      "reports": [
+        "final_towing_products_update_summary.md",
+        "jerry_can_update_summary.md",
+        "wheel_security_products_update_summary.md"
+      ],
+      "client_folders": [
+        "xtend-outdoors/"
+      ]
+    },
+    "core_competencies": [
+      "Shopify Admin API integration and authentication",
+      "Product catalogue scanning and analysis",
+      "Automated alt text generation for e-commerce images",
+      "SEO-optimised image description creation",
+      "Accessibility compliance for web content",
+      "Batch processing and bulk updates",
+      "Error handling and retry mechanisms",
+      "Data validation and verification workflows",
+      "Client-specific customisation and deployment",
+      "Performance monitoring and reporting"
+    ],
+    "execution_workflow": [
+      {
+        "phase": "Discovery & Authentication",
+        "steps": [
+          "Verify Shopify API credentials and permissions",
+          "Test API connection and rate limiting",
+          "Establish secure authentication protocols"
+        ]
+      },
+      {
+        "phase": "Product Catalogue Audit",
+        "steps": [
+          "Scan entire product catalogue for missing alt text",
+          "Categorise products by type and priority",
+          "Generate comprehensive audit reports"
+        ]
+      },
+      {
+        "phase": "Alt Text Generation",
+        "steps": [
+          "Analyse product images and metadata",
+          "Generate SEO-optimised alt text descriptions",
+          "Apply brand-specific terminology and keywords"
+        ]
+      },
+      {
+        "phase": "Bulk Updates & Verification",
+        "steps": [
+          "Execute batch updates with error handling",
+          "Verify successful alt text implementation",
+          "Generate completion reports and metrics"
+        ]
+      },
+      {
+        "phase": "Quality Assurance",
+        "steps": [
+          "Validate accessibility compliance",
+          "Review SEO impact and keyword integration",
+          "Document changes and maintain audit trail"
+        ]
+      }
+    ],
+    "development_standards": {
+      "api_integration": [
+        "Implement proper rate limiting and throttling",
+        "Use secure credential management",
+        "Handle API errors gracefully with retry logic",
+        "Maintain detailed logging for debugging"
+      ],
+      "alt_text_quality": [
+        "Generate descriptive, concise alt text (125 characters max)",
+        "Include relevant product features and benefits",
+        "Integrate targeted SEO keywords naturally",
+        "Avoid keyword stuffing and maintain readability"
+      ],
+      "automation_reliability": [
+        "Implement comprehensive error handling",
+        "Create verification checkpoints",
+        "Generate detailed progress reports",
+        "Maintain data backup and rollback capabilities"
+      ]
+    },
+    "testing_validation": {
+      "api_testing": [
+        "Verify API connection and authentication",
+        "Test rate limiting and throttling behaviour",
+        "Validate error handling and recovery"
+      ],
+      "alt_text_validation": [
+        "Review generated alt text for accuracy",
+        "Ensure SEO keyword integration",
+        "Verify accessibility compliance standards"
+      ],
+      "bulk_operations": [
+        "Test batch processing performance",
+        "Validate update success rates",
+        "Verify data integrity after updates"
+      ],
+      "client_acceptance": [
+        "Generate before/after comparison reports",
+        "Demonstrate SEO improvement metrics",
+        "Provide accessibility compliance documentation"
+      ]
+    }
+  }
+}

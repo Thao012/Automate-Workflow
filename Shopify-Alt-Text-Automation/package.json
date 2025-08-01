@@ -1,0 +1,46 @@
+{
+  "name": "shopify-alt-text-automation",
+  "version": "1.0.0",
+  "description": "Automated alt text management system for Shopify product images",
+  "main": "scripts/automation/check_alt_text.py",
+  "scripts": {
+    "test-connection": "node scripts/automation/test_api_connection.js",
+    "scan-products": "node scripts/search/complete_product_scan.js",
+    "check-alt": "python scripts/automation/check_alt_text.py",
+    "update-towing": "node scripts/update/update_all_remaining_towing_products.js",
+    "search-comprehensive": "node scripts/search/comprehensive_product_search.js",
+    "analyze-criteria": "node scripts/automation/analyze_alt_criteria.js"
+  },
+  "keywords": [
+    "shopify",
+    "alt-text",
+    "accessibility",
+    "automation",
+    "ecommerce",
+    "seo",
+    "api"
+  ],
+  "author": "Alt Text Automation Team",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.0.0",
+    "fs-extra": "^11.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "python": ">=3.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "local-project"
+  },
+  "bugs": {
+    "url": "local-issues"
+  },
+  "homepage": "README.md"
+}

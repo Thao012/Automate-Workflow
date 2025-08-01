@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "id": 14735394734443,
+      "title": "Jockey Wheel Receiver - Dual Wheel",
+      "handle": "jockey-wheel-receiver-dual",
+      "vendor": "Aussie Traveller",
+      "product_type": "Towing & Safety",
+      "images": [
+        {
+          "id": 54034594660715,
+          "position": 1,
+          "product_id": 14735394734443,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/JKYWHEEL_DUALWHEEL_02.jpg?v=1754005126",
+          "alt": "Jockey Wheel Receiver - Dual Wheel - Xtend Outdoors",
+          "width": 2048,
+          "height": 2048
+        }
+      ]
+    },
+    {
+      "id": 7187821559923,
+      "title": "Jockey Wheel Receiver - Large",
+      "handle": "caravan-jockey-wheel-receiver-l-aussie-traveller",
+      "vendor": "Aussie Traveller",
+      "product_type": "Caravan Accessories",
+      "images": [
+        {
+          "id": 32739288023155,
+          "position": 1,
+          "product_id": 7187821559923,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/products/ACCESS_JKYWHLRECIEVER_LRG_01.jpg?v=1754005477",
+          "alt": "Jockey Wheel Receiver - Large - Xtend Outdoors",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 32739288055923,
+          "position": 2,
+          "product_id": 7187821559923,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/products/ACCESS_JKYWHLRECIEVER_LRG_02.jpg?v=1754005477",
+          "alt": "Jockey Wheel Receiver - Large - Xtend Outdoors",
+          "width": 2048,
+          "height": 2048
+        }
+      ]
+    },
+    {
+      "id": 7187821494387,
+      "title": "Jockey Wheel Receiver - Small",
+      "handle": "caravan-jockey-wheel-receiver-s-aussie-traveller",
+      "vendor": "Aussie Traveller",
+      "product_type": "Caravan Accessories",
+      "images": [
+        {
+          "id": 32739288154227,
+          "position": 1,
+          "product_id": 7187821494387,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/products/ACCESS_JKYWHLRECIEVER_SML_01.jpg?v=1754005478",
+          "alt": "Jockey Wheel Receiver - Small - Xtend Outdoors",
+          "width": 2048,
+          "height": 2048
+        }
+      ]
+    },
+    {
+      "id": 7187821625459,
+      "title": "Tow Ball Weight Scale",
+      "handle": "caravan-towball-weight-scale-aussie-traveller",
+      "vendor": "Aussie Traveller",
+      "product_type": "Caravan Accessories",
+      "images": [
+        {
+          "id": 32739287859315,
+          "position": 1,
+          "product_id": 7187821625459,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/products/ACCESS_TOWWEIGHTSCALE_01.jpg?v=1754005475",
+          "alt": "Tow Ball Weight Scale - Xtend Outdoors",
+          "width": 2048,
+          "height": 2048
+        },
+        {
+          "id": 32739287892083,
+          "position": 2,
+          "product_id": 7187821625459,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/products/ACCESS_TOWWEIGHTSCALE_02.jpg?v=1754005476",
+          "alt": "Tow Ball Weight Scale - Xtend Outdoors",
+          "width": 2048,
+          "height": 2048
+        }
+      ]
+    },
+    {
+      "id": 7187821396083,
+      "title": "Bullseye Caravan Leveller",
+      "handle": "bullseye-caravan-leveller",
+      "vendor": "Aussie Traveller",
+      "product_type": "Caravan Accessories",
+      "images": [
+        {
+          "id": "bullseye_main_image",
+          "position": 1,
+          "product_id": 7187821396083,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/products/BULLSEYE_LEVELLER_01.jpg",
+          "alt": "Bullseye Caravan Leveller - Xtend Outdoors",
+          "width": 2048,
+          "height": 2048
+        }
+      ]
+    }
+  ]
+}

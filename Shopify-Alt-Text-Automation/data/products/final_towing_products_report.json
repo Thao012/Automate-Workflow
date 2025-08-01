@@ -1,0 +1,65 @@
+{
+  "summary": {
+    "total_products": 7,
+    "report_date": "2025-08-01T10:05:58.271Z",
+    "store": "xtendoutdoors-store.myshopify.com"
+  },
+  "products": [
+    {
+      "product_id": 14625309360491,
+      "product_title": "D-Shackle 8mm",
+      "product_handle": "d-shackle-8mm",
+      "image_id": 53050401128811,
+      "product_status": "active",
+      "current_alt": null
+    },
+    {
+      "product_id": 14625309426027,
+      "product_title": "D-Shackle 10mm",
+      "product_handle": "d-shackle-10mm",
+      "image_id": 53050401325419,
+      "product_status": "active",
+      "current_alt": null
+    },
+    {
+      "product_id": 14625309458795,
+      "product_title": "D-Shackle 11mm",
+      "product_handle": "d-shackle-11mm",
+      "image_id": 53050401358187,
+      "product_status": "active",
+      "current_alt": null
+    },
+    {
+      "product_id": 14625309491563,
+      "product_title": "D-Shackle 13mm",
+      "product_handle": "d-shackle-13mm",
+      "image_id": 53050401390955,
+      "product_status": "active",
+      "current_alt": null
+    },
+    {
+      "product_id": 14664826487147,
+      "product_title": "Awning Frameset Safety Straps - 2 Pack",
+      "product_handle": "caravan-awning-safety-strap-2-pack",
+      "image_id": 53361702338923,
+      "product_status": "active",
+      "current_alt": null
+    },
+    {
+      "product_id": 7321639452787,
+      "product_title": "Camper Trailer Stone Guard",
+      "product_handle": "camper-trailer-stone-guard",
+      "image_id": 53880784421227,
+      "product_status": "active",
+      "current_alt": null
+    },
+    {
+      "product_id": 7418712588403,
+      "product_title": "Canvas Stone Guard Bag",
+      "product_handle": "stone-guard-bag",
+      "image_id": 33656607473779,
+      "product_status": "active",
+      "current_alt": null
+    }
+  ]
+}

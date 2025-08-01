@@ -1,0 +1,73 @@
+{
+  "timestamp": "2025-08-01T18:23:42.436Z",
+  "shopUrl": "xtendoutdoors-store.myshopify.com",
+  "totalVerified": 8,
+  "successCount": 8,
+  "mismatchCount": 0,
+  "results": [
+    {
+      "productId": 14664826487147,
+      "productName": "Awning Frameset Safety Straps - 2 Pack",
+      "imageId": 53361702338923,
+      "currentAlt": "Awning Frameset Safety Straps - 2 Pack - Xtend Outdoors",
+      "expectedAlt": "Awning Frameset Safety Straps - 2 Pack - Xtend Outdoors",
+      "status": "MATCH"
+    },
+    {
+      "productId": 7418712588403,
+      "productName": "Canvas Stone Guard Bag",
+      "imageId": 33656607473779,
+      "currentAlt": "Canvas Stone Guard Bag - Xtend Outdoors",
+      "expectedAlt": "Canvas Stone Guard Bag - Xtend Outdoors",
+      "status": "MATCH"
+    },
+    {
+      "productId": 14625309426027,
+      "productName": "D-Shackle 10mm",
+      "imageId": 53050401325419,
+      "currentAlt": "D-Shackle 10mm - Xtend Outdoors",
+      "expectedAlt": "D-Shackle 10mm - Xtend Outdoors",
+      "status": "MATCH"
+    },
+    {
+      "productId": 6798410481779,
+      "productName": "Australia Wide Camper Room Walls",
+      "imageId": 53833589293419,
+      "currentAlt": "Australia Wide Camper Room Walls - Xtend Outdoors",
+      "expectedAlt": "Australia Wide Camper Room Walls - Xtend Outdoors",
+      "status": "MATCH"
+    },
+    {
+      "productId": 6798412021875,
+      "productName": "Awning Tie Down Strap Kit",
+      "imageId": 29510898221171,
+      "currentAlt": "Awning Tie Down Strap Kit - Xtend Outdoors",
+      "expectedAlt": "Awning Tie Down Strap Kit - Xtend Outdoors",
+      "status": "MATCH"
+    },
+    {
+      "productId": 6798411530355,
+      "productName": "Camper Bed Fly",
+      "imageId": 29510895861875,
+      "currentAlt": "Camper Bed Fly - Xtend Outdoors",
+      "expectedAlt": "Camper Bed Fly - Xtend Outdoors",
+      "status": "MATCH"
+    },
+    {
+      "productId": 6965933146227,
+      "productName": "Camper Trailer Cover",
+      "imageId": 32739748577395,
+      "currentAlt": "Camper Trailer Cover - Xtend Outdoors",
+      "expectedAlt": "Camper Trailer Cover - Xtend Outdoors",
+      "status": "MATCH"
+    },
+    {
+      "productId": 14705556849003,
+      "productName": "Caravan Awning Rope Clip Kit",
+      "imageId": 53769974186347,
+      "currentAlt": "Caravan Awning Rope Clip Kit - Xtend Outdoors",
+      "expectedAlt": "Caravan Awning Rope Clip Kit - Xtend Outdoors",
+      "status": "MATCH"
+    }
+  ]
+}

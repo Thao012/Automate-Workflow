@@ -1,0 +1,190 @@
+{
+  "summary": {
+    "total_processed": 20,
+    "successful": 0,
+    "failed": 20,
+    "timestamp": "2025-08-01T10:31:09.060Z"
+  },
+  "results": [
+    {
+      "success": false,
+      "product_id": 14664826290539,
+      "image_id": 53608562983275,
+      "alt_text": "Customisable UHF Channel Sticker - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 7418712588403,
+      "image_id": 33656607473779,
+      "alt_text": "Canvas Stone Guard Bag - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 7321639452787,
+      "image_id": 53880784421227,
+      "alt_text": "Camper Trailer Stone Guard - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 7321639387251,
+      "image_id": 53880784421227,
+      "alt_text": "Caravan Stone Guard - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 7348056948851,
+      "image_id": 33295725101171,
+      "alt_text": "24\" HD Smart Caravan TV - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 7348057047155,
+      "image_id": 33295726018675,
+      "alt_text": "32\" HD DVD Smart Caravan TV - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 7331300147315,
+      "image_id": 33200135929971,
+      "alt_text": "20L Jerry Can Holder - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 14716243280235,
+      "image_id": 53863236305259,
+      "alt_text": "12V 2kW Diesel Heater - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 7471528509555,
+      "image_id": 33953587855475,
+      "alt_text": "21.5\" LED Light Bar Bundle - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 6998933667955,
+      "image_id": 35444707459187,
+      "alt_text": "31.5\" LED Light Bar - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 6998933733491,
+      "image_id": 35445451161715,
+      "alt_text": "41.5\" LED Light Bar - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 14664826159467,
+      "image_id": 53361698865515,
+      "alt_text": "50 Amp Heavy Duty Connector - Grey 2 Pack - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 14664826093931,
+      "image_id": 53361698668907,
+      "alt_text": "50 Amp Heavy Duty Connector - Red 2 Pack - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 6998932422771,
+      "image_id": 35445470396531,
+      "alt_text": "7\" LED Spotlight Driving Light - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 6998932979827,
+      "image_id": 35445475115123,
+      "alt_text": "9\" LED Spotlight Driving Light - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 14625309360491,
+      "image_id": 53050401128811,
+      "alt_text": "D-Shackle 8mm - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 14625309426027,
+      "image_id": 53050401325419,
+      "alt_text": "D-Shackle 10mm - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 14625309458795,
+      "image_id": 53050401358187,
+      "alt_text": "D-Shackle 11mm - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 14625309491563,
+      "image_id": 53050401390955,
+      "alt_text": "D-Shackle 13mm - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    },
+    {
+      "success": false,
+      "product_id": 14664826487147,
+      "image_id": 53361702338923,
+      "alt_text": "Awning Frameset Safety Straps - 2 Pack - Xtend Outdoors",
+      "error": {
+        "errors": "[API] Invalid API key or access token (unrecognized login or wrong password)"
+      }
+    }
+  ]
+}

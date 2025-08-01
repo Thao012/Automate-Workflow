@@ -1,0 +1,762 @@
+{
+  "summary": {
+    "total_processed": 17,
+    "successful": 17,
+    "failed": 0,
+    "success_rate": "100.0%",
+    "timestamp": "2025-08-01T10:33:42.992Z"
+  },
+  "successful_updates": [
+    {
+      "success": true,
+      "productId": 14664826290539,
+      "imageId": 53608562983275,
+      "productTitle": "Customisable UHF Channel Sticker",
+      "newAltText": "Customisable UHF Channel Sticker - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53608562983275,
+          "alt": "Customisable UHF Channel Sticker - Xtend Outdoors",
+          "position": 1,
+          "product_id": 14664826290539,
+          "created_at": "2025-04-02T07:22:38+10:00",
+          "updated_at": "2025-08-01T20:28:28+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53608562983275",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/UFHCHANNELSTKR_05.jpg?v=1754005307",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 7321639452787,
+      "imageId": 53880784421227,
+      "productTitle": "Camper Trailer Stone Guard",
+      "newAltText": "Camper Trailer Stone Guard - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53880784421227,
+          "alt": "Camper Trailer Stone Guard - Xtend Outdoors",
+          "position": 1,
+          "product_id": 7321639452787,
+          "created_at": "2025-06-10T08:44:08+10:00",
+          "updated_at": "2025-08-01T20:33:23+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53880784421227",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/STONEGUARD_08copy.jpg?v=1754005454",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 7321639387251,
+      "imageId": 53880784421227,
+      "productTitle": "Caravan Stone Guard",
+      "newAltText": "Caravan Stone Guard - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53880784421227,
+          "alt": "Caravan Stone Guard - Xtend Outdoors",
+          "position": 1,
+          "product_id": 7321639387251,
+          "created_at": "2025-06-10T08:44:08+10:00",
+          "updated_at": "2025-08-01T20:33:24+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53880784421227",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/STONEGUARD_08copy.jpg?v=1754005454",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 7348056948851,
+      "imageId": 33295725101171,
+      "productTitle": "24\" HD Smart Caravan TV",
+      "newAltText": "24\" HD Smart Caravan TV - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 33295725101171,
+          "alt": "24\" HD Smart Caravan TV - Xtend Outdoors",
+          "position": 1,
+          "product_id": 7348056948851,
+          "created_at": "2023-12-21T10:27:41+10:00",
+          "updated_at": "2025-08-01T20:33:26+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/33295725101171",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/products/24INCHTV_SMART_01.jpg?v=1754005444",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 7348057047155,
+      "imageId": 33295726018675,
+      "productTitle": "32\" HD DVD Smart Caravan TV",
+      "newAltText": "32\" HD DVD Smart Caravan TV - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 33295726018675,
+          "alt": "32\" HD DVD Smart Caravan TV - Xtend Outdoors",
+          "position": 1,
+          "product_id": 7348057047155,
+          "created_at": "2023-12-21T10:27:51+10:00",
+          "updated_at": "2025-08-01T20:33:28+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/33295726018675",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/products/32INCHTV_SMARTDVD_01.jpg?v=1754005443",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 7331300147315,
+      "imageId": 33200135929971,
+      "productTitle": "20L Jerry Can Holder",
+      "newAltText": "20L Jerry Can Holder - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 33200135929971,
+          "alt": "20L Jerry Can Holder - Xtend Outdoors",
+          "position": 1,
+          "product_id": 7331300147315,
+          "created_at": "2023-12-01T10:18:11+10:00",
+          "updated_at": "2025-08-01T20:20:34+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/33200135929971",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/products/JERRYCANS_HOLDER_04.jpg?v=1754005447",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 14716243280235,
+      "imageId": 53863236305259,
+      "productTitle": "12V 2kW Diesel Heater",
+      "newAltText": "12V 2kW Diesel Heater - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53863236305259,
+          "alt": "12V 2kW Diesel Heater - Xtend Outdoors",
+          "position": 1,
+          "product_id": 14716243280235,
+          "created_at": "2025-06-04T11:16:50+10:00",
+          "updated_at": "2025-08-01T20:33:31+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53863236305259",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/DIESELHEATER_01.jpg?v=1754005136",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 7471528509555,
+      "imageId": 33953587855475,
+      "productTitle": "21.5\" LED Light Bar Bundle",
+      "newAltText": "21.5\" LED Light Bar Bundle - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 33953587855475,
+          "alt": "21.5\" LED Light Bar Bundle - Xtend Outdoors",
+          "position": 1,
+          "product_id": 7471528509555,
+          "created_at": "2024-04-04T10:58:11+10:00",
+          "updated_at": "2025-08-01T20:33:33+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/33953587855475",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/BNDL_DrivingLight_21.5inch_264202005.jpg?v=1754005406",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 6998933667955,
+      "imageId": 35444707459187,
+      "productTitle": "31.5\" LED Light Bar",
+      "newAltText": "31.5\" LED Light Bar - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 35444707459187,
+          "alt": "31.5\" LED Light Bar - Xtend Outdoors",
+          "position": 1,
+          "product_id": 6998933667955,
+          "created_at": "2024-08-19T08:24:46+10:00",
+          "updated_at": "2025-08-01T20:33:34+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/35444707459187",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/LIGHTBAR_31INCH_05.jpg?v=1754005632",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 6998933733491,
+      "imageId": 35445451161715,
+      "productTitle": "41.5\" LED Light Bar",
+      "newAltText": "41.5\" LED Light Bar - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 35445451161715,
+          "alt": "41.5\" LED Light Bar - Xtend Outdoors",
+          "position": 1,
+          "product_id": 6998933733491,
+          "created_at": "2024-08-19T09:13:42+10:00",
+          "updated_at": "2025-08-01T20:33:36+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/35445451161715",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/LIGHTBAR_41INCH_05.jpg?v=1754005631",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 14664826159467,
+      "imageId": 53361698865515,
+      "productTitle": "50 Amp Heavy Duty Connector - Grey 2 Pack",
+      "newAltText": "50 Amp Heavy Duty Connector - Grey 2 Pack - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53361698865515,
+          "alt": "50 Amp Heavy Duty Connector - Grey 2 Pack - Xtend Outdoors",
+          "position": 1,
+          "product_id": 14664826159467,
+          "created_at": "2025-02-12T10:04:24+10:00",
+          "updated_at": "2025-08-01T20:33:38+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53361698865515",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/HVYDTYCONNECTOR_GREY_01.jpg?v=1754005311",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 14664826093931,
+      "imageId": 53361698668907,
+      "productTitle": "50 Amp Heavy Duty Connector - Red 2 Pack",
+      "newAltText": "50 Amp Heavy Duty Connector - Red 2 Pack - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53361698668907,
+          "alt": "50 Amp Heavy Duty Connector - Red 2 Pack - Xtend Outdoors",
+          "position": 1,
+          "product_id": 14664826093931,
+          "created_at": "2025-02-12T10:04:19+10:00",
+          "updated_at": "2025-08-01T20:33:39+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53361698668907",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/HVYDTYCONNECTOR_RED_01.jpg?v=1754005312",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 6998932422771,
+      "imageId": 35445470396531,
+      "productTitle": "7\" LED Spotlight Driving Light",
+      "newAltText": "7\" LED Spotlight Driving Light - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 35445470396531,
+          "alt": "7\" LED Spotlight Driving Light - Xtend Outdoors",
+          "position": 1,
+          "product_id": 6998932422771,
+          "created_at": "2024-08-19T09:14:58+10:00",
+          "updated_at": "2025-08-01T20:33:41+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/35445470396531",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/SPOTLIGHT_7INCH_03.jpg?v=1754005636",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 6998932979827,
+      "imageId": 35445475115123,
+      "productTitle": "9\" LED Spotlight Driving Light",
+      "newAltText": "9\" LED Spotlight Driving Light - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 35445475115123,
+          "alt": "9\" LED Spotlight Driving Light - Xtend Outdoors",
+          "position": 1,
+          "product_id": 6998932979827,
+          "created_at": "2024-08-19T09:15:16+10:00",
+          "updated_at": "2025-08-01T20:33:43+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/35445475115123",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/SPOTLIGHT_9INCH_03.jpg?v=1754005634",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 14625309360491,
+      "imageId": 53050401128811,
+      "productTitle": "D-Shackle 8mm",
+      "newAltText": "D-Shackle 8mm - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53050401128811,
+          "alt": "D-Shackle 8mm - Xtend Outdoors",
+          "position": 1,
+          "product_id": 14625309360491,
+          "created_at": "2024-11-07T14:37:43+10:00",
+          "updated_at": "2025-08-01T20:06:55+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53050401128811",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/DSHACKLES_8mm_01.jpg?v=1754005321",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 14625309458795,
+      "imageId": 53050401358187,
+      "productTitle": "D-Shackle 11mm",
+      "newAltText": "D-Shackle 11mm - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53050401358187,
+          "alt": "D-Shackle 11mm - Xtend Outdoors",
+          "position": 1,
+          "product_id": 14625309458795,
+          "created_at": "2024-11-07T14:37:51+10:00",
+          "updated_at": "2025-08-01T20:07:25+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53050401358187",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/DSHACKLES_11mm_01.jpg?v=1754005318",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 14625309491563,
+      "imageId": 53050401390955,
+      "productTitle": "D-Shackle 13mm",
+      "newAltText": "D-Shackle 13mm - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53050401390955,
+          "alt": "D-Shackle 13mm - Xtend Outdoors",
+          "position": 1,
+          "product_id": 14625309491563,
+          "created_at": "2024-11-07T14:37:54+10:00",
+          "updated_at": "2025-08-01T20:07:36+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53050401390955",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/DSHACKLES_13mm_01.jpg?v=1754005316",
+          "variant_ids": []
+        }
+      }
+    }
+  ],
+  "failed_updates": [],
+  "all_results": [
+    {
+      "success": true,
+      "productId": 14664826290539,
+      "imageId": 53608562983275,
+      "productTitle": "Customisable UHF Channel Sticker",
+      "newAltText": "Customisable UHF Channel Sticker - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53608562983275,
+          "alt": "Customisable UHF Channel Sticker - Xtend Outdoors",
+          "position": 1,
+          "product_id": 14664826290539,
+          "created_at": "2025-04-02T07:22:38+10:00",
+          "updated_at": "2025-08-01T20:28:28+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53608562983275",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/UFHCHANNELSTKR_05.jpg?v=1754005307",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 7321639452787,
+      "imageId": 53880784421227,
+      "productTitle": "Camper Trailer Stone Guard",
+      "newAltText": "Camper Trailer Stone Guard - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53880784421227,
+          "alt": "Camper Trailer Stone Guard - Xtend Outdoors",
+          "position": 1,
+          "product_id": 7321639452787,
+          "created_at": "2025-06-10T08:44:08+10:00",
+          "updated_at": "2025-08-01T20:33:23+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53880784421227",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/STONEGUARD_08copy.jpg?v=1754005454",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 7321639387251,
+      "imageId": 53880784421227,
+      "productTitle": "Caravan Stone Guard",
+      "newAltText": "Caravan Stone Guard - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53880784421227,
+          "alt": "Caravan Stone Guard - Xtend Outdoors",
+          "position": 1,
+          "product_id": 7321639387251,
+          "created_at": "2025-06-10T08:44:08+10:00",
+          "updated_at": "2025-08-01T20:33:24+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53880784421227",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/STONEGUARD_08copy.jpg?v=1754005454",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 7348056948851,
+      "imageId": 33295725101171,
+      "productTitle": "24\" HD Smart Caravan TV",
+      "newAltText": "24\" HD Smart Caravan TV - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 33295725101171,
+          "alt": "24\" HD Smart Caravan TV - Xtend Outdoors",
+          "position": 1,
+          "product_id": 7348056948851,
+          "created_at": "2023-12-21T10:27:41+10:00",
+          "updated_at": "2025-08-01T20:33:26+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/33295725101171",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/products/24INCHTV_SMART_01.jpg?v=1754005444",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 7348057047155,
+      "imageId": 33295726018675,
+      "productTitle": "32\" HD DVD Smart Caravan TV",
+      "newAltText": "32\" HD DVD Smart Caravan TV - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 33295726018675,
+          "alt": "32\" HD DVD Smart Caravan TV - Xtend Outdoors",
+          "position": 1,
+          "product_id": 7348057047155,
+          "created_at": "2023-12-21T10:27:51+10:00",
+          "updated_at": "2025-08-01T20:33:28+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/33295726018675",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/products/32INCHTV_SMARTDVD_01.jpg?v=1754005443",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 7331300147315,
+      "imageId": 33200135929971,
+      "productTitle": "20L Jerry Can Holder",
+      "newAltText": "20L Jerry Can Holder - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 33200135929971,
+          "alt": "20L Jerry Can Holder - Xtend Outdoors",
+          "position": 1,
+          "product_id": 7331300147315,
+          "created_at": "2023-12-01T10:18:11+10:00",
+          "updated_at": "2025-08-01T20:20:34+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/33200135929971",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/products/JERRYCANS_HOLDER_04.jpg?v=1754005447",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 14716243280235,
+      "imageId": 53863236305259,
+      "productTitle": "12V 2kW Diesel Heater",
+      "newAltText": "12V 2kW Diesel Heater - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53863236305259,
+          "alt": "12V 2kW Diesel Heater - Xtend Outdoors",
+          "position": 1,
+          "product_id": 14716243280235,
+          "created_at": "2025-06-04T11:16:50+10:00",
+          "updated_at": "2025-08-01T20:33:31+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53863236305259",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/DIESELHEATER_01.jpg?v=1754005136",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 7471528509555,
+      "imageId": 33953587855475,
+      "productTitle": "21.5\" LED Light Bar Bundle",
+      "newAltText": "21.5\" LED Light Bar Bundle - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 33953587855475,
+          "alt": "21.5\" LED Light Bar Bundle - Xtend Outdoors",
+          "position": 1,
+          "product_id": 7471528509555,
+          "created_at": "2024-04-04T10:58:11+10:00",
+          "updated_at": "2025-08-01T20:33:33+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/33953587855475",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/BNDL_DrivingLight_21.5inch_264202005.jpg?v=1754005406",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 6998933667955,
+      "imageId": 35444707459187,
+      "productTitle": "31.5\" LED Light Bar",
+      "newAltText": "31.5\" LED Light Bar - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 35444707459187,
+          "alt": "31.5\" LED Light Bar - Xtend Outdoors",
+          "position": 1,
+          "product_id": 6998933667955,
+          "created_at": "2024-08-19T08:24:46+10:00",
+          "updated_at": "2025-08-01T20:33:34+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/35444707459187",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/LIGHTBAR_31INCH_05.jpg?v=1754005632",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 6998933733491,
+      "imageId": 35445451161715,
+      "productTitle": "41.5\" LED Light Bar",
+      "newAltText": "41.5\" LED Light Bar - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 35445451161715,
+          "alt": "41.5\" LED Light Bar - Xtend Outdoors",
+          "position": 1,
+          "product_id": 6998933733491,
+          "created_at": "2024-08-19T09:13:42+10:00",
+          "updated_at": "2025-08-01T20:33:36+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/35445451161715",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/LIGHTBAR_41INCH_05.jpg?v=1754005631",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 14664826159467,
+      "imageId": 53361698865515,
+      "productTitle": "50 Amp Heavy Duty Connector - Grey 2 Pack",
+      "newAltText": "50 Amp Heavy Duty Connector - Grey 2 Pack - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53361698865515,
+          "alt": "50 Amp Heavy Duty Connector - Grey 2 Pack - Xtend Outdoors",
+          "position": 1,
+          "product_id": 14664826159467,
+          "created_at": "2025-02-12T10:04:24+10:00",
+          "updated_at": "2025-08-01T20:33:38+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53361698865515",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/HVYDTYCONNECTOR_GREY_01.jpg?v=1754005311",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 14664826093931,
+      "imageId": 53361698668907,
+      "productTitle": "50 Amp Heavy Duty Connector - Red 2 Pack",
+      "newAltText": "50 Amp Heavy Duty Connector - Red 2 Pack - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53361698668907,
+          "alt": "50 Amp Heavy Duty Connector - Red 2 Pack - Xtend Outdoors",
+          "position": 1,
+          "product_id": 14664826093931,
+          "created_at": "2025-02-12T10:04:19+10:00",
+          "updated_at": "2025-08-01T20:33:39+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53361698668907",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/HVYDTYCONNECTOR_RED_01.jpg?v=1754005312",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 6998932422771,
+      "imageId": 35445470396531,
+      "productTitle": "7\" LED Spotlight Driving Light",
+      "newAltText": "7\" LED Spotlight Driving Light - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 35445470396531,
+          "alt": "7\" LED Spotlight Driving Light - Xtend Outdoors",
+          "position": 1,
+          "product_id": 6998932422771,
+          "created_at": "2024-08-19T09:14:58+10:00",
+          "updated_at": "2025-08-01T20:33:41+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/35445470396531",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/SPOTLIGHT_7INCH_03.jpg?v=1754005636",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 6998932979827,
+      "imageId": 35445475115123,
+      "productTitle": "9\" LED Spotlight Driving Light",
+      "newAltText": "9\" LED Spotlight Driving Light - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 35445475115123,
+          "alt": "9\" LED Spotlight Driving Light - Xtend Outdoors",
+          "position": 1,
+          "product_id": 6998932979827,
+          "created_at": "2024-08-19T09:15:16+10:00",
+          "updated_at": "2025-08-01T20:33:43+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/35445475115123",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/SPOTLIGHT_9INCH_03.jpg?v=1754005634",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 14625309360491,
+      "imageId": 53050401128811,
+      "productTitle": "D-Shackle 8mm",
+      "newAltText": "D-Shackle 8mm - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53050401128811,
+          "alt": "D-Shackle 8mm - Xtend Outdoors",
+          "position": 1,
+          "product_id": 14625309360491,
+          "created_at": "2024-11-07T14:37:43+10:00",
+          "updated_at": "2025-08-01T20:06:55+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53050401128811",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/DSHACKLES_8mm_01.jpg?v=1754005321",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 14625309458795,
+      "imageId": 53050401358187,
+      "productTitle": "D-Shackle 11mm",
+      "newAltText": "D-Shackle 11mm - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53050401358187,
+          "alt": "D-Shackle 11mm - Xtend Outdoors",
+          "position": 1,
+          "product_id": 14625309458795,
+          "created_at": "2024-11-07T14:37:51+10:00",
+          "updated_at": "2025-08-01T20:07:25+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53050401358187",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/DSHACKLES_11mm_01.jpg?v=1754005318",
+          "variant_ids": []
+        }
+      }
+    },
+    {
+      "success": true,
+      "productId": 14625309491563,
+      "imageId": 53050401390955,
+      "productTitle": "D-Shackle 13mm",
+      "newAltText": "D-Shackle 13mm - Xtend Outdoors",
+      "data": {
+        "image": {
+          "id": 53050401390955,
+          "alt": "D-Shackle 13mm - Xtend Outdoors",
+          "position": 1,
+          "product_id": 14625309491563,
+          "created_at": "2024-11-07T14:37:54+10:00",
+          "updated_at": "2025-08-01T20:07:36+10:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/53050401390955",
+          "width": 2048,
+          "height": 2048,
+          "src": "https://cdn.shopify.com/s/files/1/0564/9865/1251/files/DSHACKLES_13mm_01.jpg?v=1754005316",
+          "variant_ids": []
+        }
+      }
+    }
+  ]
+}

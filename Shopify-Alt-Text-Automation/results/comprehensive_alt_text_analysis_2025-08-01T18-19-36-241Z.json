@@ -1,0 +1,161 @@
+{
+  "analysis_timestamp": "2025-08-01T18:19:36.241Z",
+  "summary": {
+    "total_products_analyzed": 13,
+    "products_with_valid_alt": 2,
+    "products_recently_updated": 3,
+    "products_missing_alt": 8,
+    "products_needing_attention": 5
+  },
+  "products_missing_alt_text": [
+    {
+      "product_id": 6798410481779,
+      "product_title": "Australia Wide Camper Room Walls",
+      "product_handle": "australia-wide-camper-room-walls",
+      "image_id": 53833589293419,
+      "current_alt": "Australia Wide Camper Room Walls",
+      "alt_status": "missing_brand",
+      "product_status": "active",
+      "recently_updated": false
+    },
+    {
+      "product_id": 14664826487147,
+      "product_title": "Awning Frameset Safety Straps - 2 Pack",
+      "product_handle": "caravan-awning-safety-strap-2-pack",
+      "image_id": 53361702338923,
+      "current_alt": null,
+      "alt_status": "missing",
+      "product_status": "active",
+      "recently_updated": false
+    },
+    {
+      "product_id": 6798412021875,
+      "product_title": "Awning Tie Down Strap Kit",
+      "product_handle": "xtend-awning-tie-down-straps-with-ropes-pegs-set-of-2",
+      "image_id": 29510898221171,
+      "current_alt": "Awning Tie Down Strap Kit",
+      "alt_status": "missing_brand",
+      "product_status": "active",
+      "recently_updated": false
+    },
+    {
+      "product_id": 6798411530355,
+      "product_title": "Camper Bed Fly",
+      "product_handle": "camper-bed-fly",
+      "image_id": 29510895861875,
+      "current_alt": "P1090955",
+      "alt_status": "missing_brand",
+      "product_status": "active",
+      "recently_updated": false
+    },
+    {
+      "product_id": 6965933146227,
+      "product_title": "Camper Trailer Cover",
+      "product_handle": "camper-trailer-cover",
+      "image_id": 32739748577395,
+      "current_alt": "Camper Trailer Cover - Aussie Traveller",
+      "alt_status": "missing_brand",
+      "product_status": "active",
+      "recently_updated": false
+    },
+    {
+      "product_id": 7418712588403,
+      "product_title": "Canvas Stone Guard Bag",
+      "product_handle": "stone-guard-bag",
+      "image_id": 33656607473779,
+      "current_alt": null,
+      "alt_status": "missing",
+      "product_status": "active",
+      "recently_updated": false
+    },
+    {
+      "product_id": 14705556849003,
+      "product_title": "Caravan Awning Rope Clip Kit",
+      "product_handle": "caravan-awning-rope-clip-kit",
+      "image_id": 53769974186347,
+      "current_alt": "Caravan Awning Rope Clips - Aussie Traveller",
+      "alt_status": "missing_brand",
+      "product_status": "active",
+      "recently_updated": false
+    },
+    {
+      "product_id": 14625309426027,
+      "product_title": "D-Shackle 10mm",
+      "product_handle": "d-shackle-10mm",
+      "image_id": 53050401325419,
+      "current_alt": null,
+      "alt_status": "missing",
+      "product_status": "active",
+      "recently_updated": false
+    }
+  ],
+  "products_needing_attention": [
+    {
+      "product_id": 6798410481779,
+      "product_title": "Australia Wide Camper Room Walls",
+      "product_handle": "australia-wide-camper-room-walls",
+      "image_id": 53833589293419,
+      "current_alt": "Australia Wide Camper Room Walls",
+      "alt_status": "missing_brand",
+      "product_status": "active",
+      "recently_updated": false
+    },
+    {
+      "product_id": 6798412021875,
+      "product_title": "Awning Tie Down Strap Kit",
+      "product_handle": "xtend-awning-tie-down-straps-with-ropes-pegs-set-of-2",
+      "image_id": 29510898221171,
+      "current_alt": "Awning Tie Down Strap Kit",
+      "alt_status": "missing_brand",
+      "product_status": "active",
+      "recently_updated": false
+    },
+    {
+      "product_id": 6798411530355,
+      "product_title": "Camper Bed Fly",
+      "product_handle": "camper-bed-fly",
+      "image_id": 29510895861875,
+      "current_alt": "P1090955",
+      "alt_status": "missing_brand",
+      "product_status": "active",
+      "recently_updated": false
+    },
+    {
+      "product_id": 6965933146227,
+      "product_title": "Camper Trailer Cover",
+      "product_handle": "camper-trailer-cover",
+      "image_id": 32739748577395,
+      "current_alt": "Camper Trailer Cover - Aussie Traveller",
+      "alt_status": "missing_brand",
+      "product_status": "active",
+      "recently_updated": false
+    },
+    {
+      "product_id": 14705556849003,
+      "product_title": "Caravan Awning Rope Clip Kit",
+      "product_handle": "caravan-awning-rope-clip-kit",
+      "image_id": 53769974186347,
+      "current_alt": "Caravan Awning Rope Clips - Aussie Traveller",
+      "alt_status": "missing_brand",
+      "product_status": "active",
+      "recently_updated": false
+    }
+  ],
+  "recently_updated_products": [
+    {
+      "product_id": 7321639452787,
+      "product_title": "Camper Trailer Stone Guard",
+      "current_alt": null
+    },
+    {
+      "product_id": 14625309458795,
+      "product_title": "D-Shackle 11mm",
+      "current_alt": null
+    },
+    {
+      "product_id": 14625309491563,
+      "product_title": "D-Shackle 13mm",
+      "current_alt": null
+    }
+  ]
+}
